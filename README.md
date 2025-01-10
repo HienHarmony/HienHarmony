@@ -11,7 +11,7 @@ Hello, I'm **HienHarmony**! As a passionate **Data Engineer**, I specialize in b
 - 🤔 **Looking for Help With:** Best practices in real-time data ingestion and processing.
 - 💬 **Ask Me About:** Data pipelines, cloud computing, big data tools, or optimizing database performance.
 - 📫 **How to Reach Me:** [vanhien2458@gmail.com](mailto:your-email@example.com) | [https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/nguyen-van-hien-10009529b/)
-- 😄 **Pronouns:** He/She/They
+- 😄 **Pronouns:** He
 - ⚡ **Fun Fact:** I love automating repetitive tasks and finding new ways to make data work smarter!
 
 ---
