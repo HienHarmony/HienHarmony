@@ -19,30 +19,15 @@ Hello, I'm **HienHarmony**! As a passionate **Data Engineer**, I specialize in b
 ## 🔧 Skills & Technologies
 Here are some of the tools and technologies I work with regularly:
 
-- **Programming Languages:** Python, SQL, Scala, Bash
-- **Big Data Tools:** Apache Spark, Hadoop, Kafka, Flink
+- **Programming Languages:** Python, SQL, Pyspark, Bash
+- **Big Data Tools:** Apache Spark, Hadoop, Kafka
 - **Cloud Platforms:**  Azure Studio
-- **Databases:** PostgreSQL, MySQL, MongoDB, Snowflake
-- **ETL Tools:** Airflow, dbt,
+- **Databases:** PostgreSQL, MySQL, MongoDB, SQL Sever
+- **ETL Tools:** Airflow
 - **DevOps:** Docker, Kubernetes
 - **Data Visualization:**  Power BI, Matplotlib
 
 ---
-
-## 📂 Projects
-
-### 🔹 **Real-Time Streaming Analytics**
-- Built a Kafka-based streaming pipeline for processing real-time events, reducing data latency by 80%.
-- Deployed on AWS with scalability for high throughput.
-
-### 🔹 **Data Warehouse Modernization**
-- Migrated legacy ETL processes to a modern data stack using dbt and Snowflake.
-- Reduced data processing time by 40% and improved query performance.
-
-### 🔹 **Machine Learning Data Pipeline**
-- Designed end-to-end pipelines for ML models, integrating Spark and Airflow for scalable feature engineering.
-
-For more projects, check out my repositories!
 
 ---
 
